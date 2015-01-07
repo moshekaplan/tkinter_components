@@ -1,6 +1,5 @@
 from Tkinter import *
 from ttk import *
-import os
 
 class Dialog(Toplevel):
     """Sourced from http://effbot.org/tkinterbook/tkinter-dialog-windows.htm"""
