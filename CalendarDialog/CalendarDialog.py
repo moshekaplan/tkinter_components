@@ -1,6 +1,10 @@
-import Tkinter
-import ttkcalendar
+#!/usr/bin/env python
 
+# Written in response to: "How do I create a date picker in tkinter?"
+# from https://stackoverflow.com/questions/4443786/how-do-i-create-a-date-picker-in-tkinter/27809821
+import Tkinter
+
+import ttkcalendar
 import tkSimpleDialog
 
 
